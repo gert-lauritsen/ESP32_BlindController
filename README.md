@@ -1,6 +1,4 @@
-Perfect! Based on your ESP32 blind controller code, here's a clean and helpful `README.md` for your project:
 
----
 
 ## 🧠 ESP32 Blind Controller with Home Assistant MQTT Auto-Discovery
 
